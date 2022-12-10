@@ -29,10 +29,16 @@ const Navber = () => {
               <p>Home</p>
             </li>
             <li>
+              <p>Experience</p>
+            </li>
+            <li>
               <p>About</p>
             </li>
             <li>
               <p>Portfolio</p>
+            </li>
+            <li>
+              <p>Contact Me</p>
             </li>
           </ul>
         </div>
@@ -44,10 +50,16 @@ const Navber = () => {
             <p>Home</p>
           </li>
           <li>
+            <p>Experience</p>
+          </li>
+          <li>
             <p>About</p>
           </li>
           <li>
             <p>Portfolio</p>
+          </li>
+          <li>
+            <p>Contact Me</p>
           </li>
         </ul>
       </div>

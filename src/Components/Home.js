@@ -10,7 +10,7 @@ const Home = () => {
     <div>
       <div className="hero lg:p-24">
         <div className="hero-content flex-col lg:flex-row-reverse">
-          <div className="lg:w-2/3 md:w-1/2 mx-auto key_image shadow-2xl"></div>
+          <div className="lg:w-1/2 md:w-1/2 mx-auto key_image shadow-2xl"></div>
           <div>
             <h2 className="lg:text-5xl sm:text-7xl font-bold text-lime-600">
               Hi. there. I am
@@ -32,9 +32,11 @@ const Home = () => {
               repeat={Infinity}
             />
             <p className="text-gray-500 py-4 w-4/5">
-              I have 8 years of experience building and desgining software.
-              Currently, I love to work on web application using technologies
-              like React, Tailwind, Next JS and GraphQL.
+              I prefer to build my career with honesty and responsibility. I can
+              take any challenge. I will also be responsible for any job in
+              which I work. I can show my best performance; I believe I have
+              such qualities for positive communication as well as for the
+              organization.
             </p>
             <div>
               <Link
@@ -42,7 +44,7 @@ const Home = () => {
                 duration={500}
                 className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer"
               >
-                Portfolio
+                My Resume
                 <span className="group-hover:rotate-90 duration-300">
                   <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
                 </span>
